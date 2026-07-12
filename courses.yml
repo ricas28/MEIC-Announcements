@@ -1,0 +1,70 @@
+courses:
+
+  ALC:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/ALC/2026-2027/1-semestre/anuncios
+    role_id: 1525980196707111112
+
+  CC:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/CC/2026-2027/1-semestre/anuncios
+    role_id: 1525980852478279820
+
+  AAva:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/AAva/2026-2027/2-semestre/anuncios
+    role_id: 1525980901647978626
+
+  CPD:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/CPD/2026-2027/2-semestre/anuncios
+    role_id: 1525980952252125354
+
+  LPro:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/LPro/2026-2027/2-semestre/anuncios
+    role_id: 1525981037430308974
+
+  CSF:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/CSF/2026-2027/1-semestre/anuncios
+    role_id: 1525981107873644776
+
+  SSof:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/SSof/2026-2027/1-semestre/anuncios
+    role_id: 1525981154447065238
+
+  SIRS:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/SIRS/2026-2027/1-semestre/anuncios
+    role_id: 1525981197719699636
+
+  CPS:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/CPS/2026-2027/2-semestre/anuncios
+    role_id: 1525981274735382680
+
+  OGFI:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/OGFI/2026-2027/2-semestre/anuncios
+    role_id: 1525981354376826950
+
+  SDTF:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/SDTF/2026-2027/2-semestre/anuncios
+    role_id: 1525981438170890421
+
+  AP-DEI:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/AP-Dei/2026-2027/1-semestre/anuncios
+    role_id: 1525981555603013674
+
+  CDadosi:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/CDadosi/2026-2027/1-semestre/anuncios
+    role_id: 1525981736264269854
+
+  IAES:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/IAES2/2026-2027/1-semestre/anuncios
+    role_id: 1525981776672067754
+
+  LN:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/LN/2026-2027/1-semestre/anuncios
+    role_id: 1525981857513214062
+
+  AASMA:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/AASMA/2026-2027/2-semestre/anuncios
+    role_id: 1525981900366286878
+
+  ADI:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/ADI/2026-2027/2-semestre/anuncios
+    role_id: 1525981955412332744
+  
