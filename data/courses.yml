@@ -1,70 +1,70 @@
 courses:
 
-  ALC:
-    url: https://fenix.tecnico.ulisboa.pt/disciplinas/ALC/2026-2027/1-semestre/anuncios
+  Algoritmos para Lógica Computacional:
+    url: https://fenix.tecnico.ulisboa.pt/disciplinas/Com3610/2025-2026/2-semestre/anuncios
     role_id: 1525980196707111112
 
-  CC:
+  Computabilidade e Complexidade:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/CC/2026-2027/1-semestre/anuncios
     role_id: 1525980852478279820
 
-  AAva:
+  Algoritmos Avançados:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/AAva/2026-2027/2-semestre/anuncios
     role_id: 1525980901647978626
 
-  CPD:
+  Computação Paralela e Distribuída:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/CPD/2026-2027/2-semestre/anuncios
     role_id: 1525980952252125354
 
-  LPro:
+  Linguagens de Programação:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/LPro/2026-2027/2-semestre/anuncios
     role_id: 1525981037430308974
 
-  CSF:
+  Ciber Segurança Forense:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/CSF/2026-2027/1-semestre/anuncios
     role_id: 1525981107873644776
 
-  SSof:
+  Segurança em Software:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/SSof/2026-2027/1-semestre/anuncios
     role_id: 1525981154447065238
 
-  SIRS:
+  Segurança Informática em Redes e Sistemas:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/SIRS/2026-2027/1-semestre/anuncios
     role_id: 1525981197719699636
 
-  CPS:
+  Criptografia e Protocolos de Segurança:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/CPS/2026-2027/2-semestre/anuncios
     role_id: 1525981274735382680
 
-  OGFI:
+  Segurança e Gestão de Sistemas de Informação:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/OGFI/2026-2027/2-semestre/anuncios
     role_id: 1525981354376826950
 
-  SDTF:
+  Sistemas de Elevada Confiabilidade:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/SDTF/2026-2027/2-semestre/anuncios
     role_id: 1525981438170890421
 
-  AP-DEI:
+  Aprendizagem Profunda (Dei):
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/AP-Dei/2026-2027/1-semestre/anuncios
     role_id: 1525981555603013674
 
-  CDadosi:
+  Ciência de Dados:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/CDadosi/2026-2027/1-semestre/anuncios
     role_id: 1525981736264269854
 
-  IAES:
+  Inteligência Artificial Explicável e Simbólica:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/IAES2/2026-2027/1-semestre/anuncios
     role_id: 1525981776672067754
 
-  LN:
+  Língua Natural:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/LN/2026-2027/1-semestre/anuncios
     role_id: 1525981857513214062
 
-  AASMA:
+  Interação Pessoa-Ia:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/AASMA/2026-2027/2-semestre/anuncios
     role_id: 1525981900366286878
 
-  ADI:
+  Planeamento, Aprendizagem e Decisão Inteligente:
     url: https://fenix.tecnico.ulisboa.pt/disciplinas/ADI/2026-2027/2-semestre/anuncios
     role_id: 1525981955412332744
   
