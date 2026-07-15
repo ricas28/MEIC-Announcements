@@ -27,7 +27,8 @@ jobs:
         env:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         run: |
-          python src/main.py
+          cd src
+          python main.py
 
       - name: Commit updated state
         run: |
