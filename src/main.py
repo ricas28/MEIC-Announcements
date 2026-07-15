@@ -18,6 +18,6 @@ if __name__ == "__main__":
 
             state[course.name] = CourseState(latest_url=announcement.url)
 
-        send_announcement(courses[0], announcement)
+            send_announcement(course, announcement)
 
     save_state(state)
