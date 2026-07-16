@@ -36,3 +36,5 @@ def send_announcement(course: Course, announcement: Announcement) -> None:
 
     except requests.RequestException as e:
         print(e)
+
+    return {"status": "success"}
