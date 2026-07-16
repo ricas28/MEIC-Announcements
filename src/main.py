@@ -28,3 +28,5 @@ def check_courses():
     save_state(state)
 
     print("Finished!!\n")
+
+    return {"status": "success"}
