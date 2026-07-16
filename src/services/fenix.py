@@ -1,12 +1,8 @@
-from bs4 import BeautifulSoup, Tag, NavigableString
-from urllib.parse import urljoin
+from bs4 import BeautifulSoup
 import requests
-
 from markdownify import markdownify as md
 
 from models import Course, Announcement
-
-BASE_URL = "https://fenix.tecnico.ulisboa.pt"
 
 def get_announcement_content(url: str) -> requests.Response:
     "Makes a GET request to retrieve html page for course announcement."
