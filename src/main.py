@@ -18,9 +18,6 @@ def check_courses():
 
         state = get_latest_state(course.name)
 
-        print(announcement)
-        print(state)
-
         if announcement is None:
             continue
 
