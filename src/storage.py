@@ -6,7 +6,7 @@ from models import Course, CourseState
 
 def load_courses() -> list[Course]:
     courses = []
-    with open("../data/courses.yml") as stream:
+    with open("../data/courses.yml", encoding="utf-8") as stream:
         try:
             data = yaml.safe_load(stream)
         except yaml.YAMLError as exc:
@@ -27,7 +27,7 @@ def load_state() -> dict[str, CourseState]:
     if not Path("../data/state.json").exists():
         return {}
 
-    with open("../data/state.json") as file:
+    with open("../data/state.json", encoding="utf-8") as file:
         data = json.load(file)
 
     state = {}
@@ -43,5 +43,5 @@ def save_state(state: dict[str, CourseState]) -> None:
     for name, course_state in state.items():
         data[name] = {"latest_url": course_state.latest_url}
 
-    with open("../data/state.json", "w") as file:
+    with open("../data/state.json", "w", encoding="utf-8") as file:
         json.dump(data, file, indent=4)

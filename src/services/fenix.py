@@ -34,6 +34,9 @@ def get_latest_announcement(course: Course) -> Announcement:
     # First match is the latest announcement
     latest_announcement = announcement_div.find("div")
 
+    if not latest_announcement:
+        return None
+
     # Titles are always written with 'h5' tag, followed by an 'a' tag
     title_tag = latest_announcement.find("h5").find("a")
 

@@ -3,7 +3,8 @@ import requests
 
 from models import Course, Announcement
 
-WEBHOOK_URL = os.environ["DISCORD_WEBHOOK"]
+# WEBHOOK_URL = os.environ["DISCORD_WEBHOOK"]
+WEBHOOK_URL = "https://discordapp.com/api/webhooks/1527072899876524135/HvC-MTFfyzEv6xye8UmxRZtAsSEvu5DVkwsoZaWu4SmGBMiOXOAX8fJtu7GHMMbgKt-X"
 
 def send_announcement(course: Course, announcement: Announcement) -> None:
     payload = {
