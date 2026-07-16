@@ -3,6 +3,10 @@ import requests
 
 from models import Course, Announcement
 
+from dotenv import load_dotenv
+
+load_dotenv()
+
 WEBHOOK_URL = os.environ["DISCORD_WEBHOOK"]
 
 def send_announcement(course: Course, announcement: Announcement) -> None:

@@ -4,3 +4,4 @@ requests
 markdownify
 fastapi
 uvicorn
+python-dotenv
