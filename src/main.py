@@ -3,7 +3,12 @@ from models import Course, CourseState
 from services.fenix import get_latest_announcement
 from services.discord import send_announcement
 
-if __name__ == "__main__":
+from fastapi import FastAPI
+
+app = FastAPI()
+
+@app.get("/check-courses")
+def check_courses():
     print("Starting Announcement Checker...")
     courses = load_courses()
     state = load_state()
