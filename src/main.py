@@ -4,10 +4,12 @@ from services.fenix import get_latest_announcement
 from services.discord import send_announcement
 
 if __name__ == "__main__":
+    print("Starting Announcement Checker...")
     courses = load_courses()
     state = load_state()
 
     for course in courses:
+        print(f"Checking {course.name}")
         announcement = get_latest_announcement(course)
 
         if announcement is None:
@@ -19,3 +21,5 @@ if __name__ == "__main__":
             state[course.name] = CourseState(latest_url=announcement.url)
 
     save_state(state)
+
+    print("Finished!!\n")
