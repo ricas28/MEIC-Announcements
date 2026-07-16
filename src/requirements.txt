@@ -5,3 +5,4 @@ markdownify
 fastapi
 uvicorn
 python-dotenv
+upstash-redis

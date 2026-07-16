@@ -14,8 +14,3 @@ class Announcement:
     author: str
     date: str
     body: str
-
-
-@dataclass
-class CourseState:
-    latest_url: str
