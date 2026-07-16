@@ -1,32 +1,32 @@
 {
-    "Algoritmos para Lógica Computacional": {
+    "Algoritmos para L\u00f3gica Computacional": {
         "latest_url": ""
     },
     "Computabilidade e Complexidade": {
         "latest_url": ""
     },
-    "Algoritmos Avançados": {
+    "Algoritmos Avan\u00e7ados": {
         "latest_url": ""
     },
-    "Computação Paralela e Distribuída": {
+    "Computa\u00e7\u00e3o Paralela e Distribu\u00edda": {
         "latest_url": ""
     },
-    "Linguagens de Programação": {
+    "Linguagens de Programa\u00e7\u00e3o": {
         "latest_url": ""
     },
-    "Ciber Segurança Forense": {
+    "Ciber Seguran\u00e7a Forense": {
         "latest_url": ""
     },
-    "Segurança em Software": {
+    "Seguran\u00e7a em Software": {
+        "latest_url": "https://fenix.tecnico.ulisboa.pt/disciplinas/SSof/2026-2027/1-semestre/ver-post/welcome-to-software-security-course-20262027"
+    },
+    "Seguran\u00e7a Inform\u00e1tica em Redes e Sistemas": {
         "latest_url": ""
     },
-    "Segurança Informática em Redes e Sistemas": {
+    "Criptografia e Protocolos de Seguran\u00e7a": {
         "latest_url": ""
     },
-    "Criptografia e Protocolos de Segurança": {
-        "latest_url": ""
-    },
-    "Segurança e Gestão de Sistemas de Informação": {
+    "Seguran\u00e7a e Gest\u00e3o de Sistemas de Informa\u00e7\u00e3o": {
         "latest_url": ""
     },
     "Sistemas de Elevada Confiabilidade": {
@@ -35,19 +35,19 @@
     "Aprendizagem Profunda (Dei)": {
         "latest_url": ""
     },
-    "Ciência de Dados": {
+    "Ci\u00eancia de Dados": {
         "latest_url": ""
     },
-    "Inteligência Artificial Explicável e Simbólica": {
+    "Intelig\u00eancia Artificial Explic\u00e1vel e Simb\u00f3lica": {
         "latest_url": ""
     },
-    "Língua Natural": {
+    "L\u00edngua Natural": {
         "latest_url": ""
     },
-    "Interação Pessoa-Ia": {
+    "Intera\u00e7\u00e3o Pessoa-Ia": {
         "latest_url": ""
     },
-    "Planeamento, Aprendizagem e Decisão Inteligente": {
+    "Planeamento, Aprendizagem e Decis\u00e3o Inteligente": {
         "latest_url": ""
     }
 }
