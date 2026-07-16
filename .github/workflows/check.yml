@@ -35,7 +35,7 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
 
-          git add state.json
+          git add data/state.json
 
           git commit -m "Update announcement state" || exit 0
 
