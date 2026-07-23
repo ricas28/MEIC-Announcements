@@ -27,6 +27,9 @@ def get_latest_announcement(course: Course) -> Announcement:
     # Get div for announcements.
     announcement_div = soup.find("div", class_="col-sm-9 main-content", id="content-block")
 
+    if not announcement_div:
+        return None
+
     # First match is the latest announcement
     latest_announcement = announcement_div.find("div")
 
